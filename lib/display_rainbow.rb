@@ -1,3 +1,3 @@
 def display_rainbow(colors)
-  "R: 
+  "R: #{colors[0], O: 
 end
